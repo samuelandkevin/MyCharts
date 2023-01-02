@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D5E2663B-C35D-4366-8E1A-6772DC4F555D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73535A76-836A-4CA0-8E5A-E221C03369E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyCharts/Chart/ChartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "_layoutUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "73535A76-836A-4CA0-8E5A-E221C03369E6 - ad1cc8f7f64ee1a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyCharts.ChartView._layoutUI() -&gt; ()"
+                  moduleName = "MyCharts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huangkunpeng/Desktop/1/MyCharts/MyCharts/Chart/ChartView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  uuid = "73535A76-836A-4CA0-8E5A-E221C03369E6 - 60eae1b43bd4613a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyCharts.ChartView._layoutUI() -&gt; ()"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huangkunpeng/Desktop/1/MyCharts/MyCharts/Chart/ChartView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
